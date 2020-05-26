@@ -1,2 +1,2 @@
-# TrapLadu
+# Trap Ladu
 Ladu Board Game
